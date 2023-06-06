@@ -1,0 +1,4 @@
+Esto es areaclientes
+sala1
+sala2
+sala3
