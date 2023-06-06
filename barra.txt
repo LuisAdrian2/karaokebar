@@ -2,6 +2,8 @@ Esto es menu dentro de barra
 Alchol
 Tequila
 Agua
+
+Esto es el menu de lo que se encuentra en la barra, prefentemente bebidas
 Licuados
 Saborizantes
 Agua fresca

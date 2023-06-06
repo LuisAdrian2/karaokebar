@@ -2,3 +2,5 @@ Esto es areaclientes
 sala1
 sala2
 sala3
+
+Es una area donde se encuentran los clientes ubicados y enumerados
