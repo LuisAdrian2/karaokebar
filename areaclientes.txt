@@ -4,3 +4,4 @@ sala2
 sala3
 
 Es una area donde se encuentran los clientes ubicados y enumerados
+La remodelacion en las salas ha sido exitosa, con mas mejoras y espacios

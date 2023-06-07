@@ -5,3 +5,6 @@ Spaguetii
 Albondigas
 Fideos
 Estos son los platillos principales que se podran ofrecer dentro de cocina
+En la cocina se han agregado nuevos platillos como por ejemplos:
+Pizza
+Paella
